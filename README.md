@@ -5,4 +5,4 @@
 - ➕ I have experience with MSMQ, RabbitMQ, Microsoft SQL Server, PostgreSQL. This is not the end, the list is very long 😆
 - 💬 Ask me about ASP.NET Core (minimal APIs, i18n, application design), w2ui and i probably can help you.
 - 📫 How to reach me: throught github, you can create the issue in this repo to start the conversation.
-- 💬 Langauges: English, Russian.
+- 💬 Languages: English, Russian.
